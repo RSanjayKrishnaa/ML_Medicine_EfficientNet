@@ -1,0 +1,111 @@
+Unnamed: 0.1,Unnamed: 0,disease,workout
+0,0,acne,Practice gentle facial yoga
+1,1,acne,Engage in light cardio (walking and cycling)
+2,2,acne,Do stress-relieving exercises (meditation and breathing)
+3,3,acne,Stay hydrated during workouts
+4,4,acne,Avoid heavy sweating activities if prone to breakouts
+5,5,actinic_keratosis,Practice outdoor walking with sun protection
+6,6,actinic_keratosis,Do gentle stretching indoors
+7,7,actinic_keratosis,Engage in yoga or pilates
+8,8,actinic_keratosis,Include breathing exercises
+9,9,actinic_keratosis,Avoid prolonged sun exposure during workouts
+10,10,benign_tumors,Engage in light aerobic exercise
+11,11,benign_tumors,Practice yoga for relaxation
+12,12,benign_tumors,Do strength training with supervision
+13,13,benign_tumors,Maintain regular walking routine
+14,14,benign_tumors,Include stretching exercises
+15,15,bullous,Practice gentle range-of-motion exercises
+16,16,bullous,Engage in low-impact yoga
+17,17,bullous,Do breathing exercises
+18,18,bullous,Avoid friction-inducing workouts
+19,19,bullous,Stay hydrated during activity
+20,20,candidiasis,Engage in moderate cardio
+21,21,candidiasis,Practice yoga for stress relief
+22,22,candidiasis,Do stretching exercises
+23,23,candidiasis,Include breathing exercises
+24,24,candidiasis,Maintain regular walking routine
+25,25,drug_eruption,Practice meditation and breathing
+26,26,drug_eruption,Engage in light walking
+27,27,drug_eruption,Do gentle stretching
+28,28,drug_eruption,Avoid strenuous workouts during reaction
+29,29,drug_eruption,Focus on relaxation exercises
+30,30,eczema,Practice yoga for relaxation
+31,31,eczema,Engage in swimming (chlorine-free pools)
+32,32,eczema,Do stretching exercises
+33,33,eczema,Include breathing exercises
+34,34,eczema,Avoid overheating during workouts
+35,35,infestations_bites,Engage in light walking
+36,36,infestations_bites,Practice yoga
+37,37,infestations_bites,Do stretching exercises
+38,38,infestations_bites,Include breathing exercises
+39,39,infestations_bites,Avoid outdoor workouts in infested areas
+40,40,lichen,Practice yoga and meditation
+41,41,lichen,Engage in light cardio
+42,42,lichen,Do stretching exercises
+43,43,lichen,Include breathing exercises
+44,44,lichen,Maintain regular walking routine
+45,45,lupus,Practice yoga for relaxation
+46,46,lupus,Engage in low-impact cardio
+47,47,lupus,Do stretching exercises
+48,48,lupus,Include breathing exercises
+49,49,lupus,Avoid sun exposure during workouts
+50,50,moles,Engage in light cardio
+51,51,moles,Practice yoga
+52,52,moles,Do stretching exercises
+53,53,moles,Include breathing exercises
+54,54,moles,Maintain regular walking routine
+55,55,psoriasis,Practice yoga for relaxation
+56,56,psoriasis,Engage in swimming
+57,57,psoriasis,Do stretching exercises
+58,58,psoriasis,Include breathing exercises
+59,59,psoriasis,Avoid overheating during workouts
+60,60,rosacea,Practice yoga and meditation
+61,61,rosacea,Engage in light cardio
+62,62,rosacea,Do stretching exercises
+63,63,rosacea,Include breathing exercises
+64,64,rosacea,Avoid overheating during workouts
+65,65,seborrh_keratoses,Engage in light cardio
+66,66,seborrh_keratoses,Practice yoga
+67,67,seborrh_keratoses,Do stretching exercises
+68,68,seborrh_keratoses,Include breathing exercises
+69,69,seborrh_keratoses,Maintain regular walking routine
+70,70,skin_cancer,Practice yoga for relaxation
+71,71,skin_cancer,Engage in light cardio indoors
+72,72,skin_cancer,Do stretching exercises
+73,73,skin_cancer,Include breathing exercises
+74,74,skin_cancer,Avoid sun exposure during workouts
+75,75,sun_sunlight_damage,Practice yoga indoors
+76,76,sun_sunlight_damage,Engage in light cardio indoors
+77,77,sun_sunlight_damage,Do stretching exercises
+78,78,sun_sunlight_damage,Include breathing exercises
+79,79,sun_sunlight_damage,Avoid outdoor workouts without sun protection
+80,80,tinea,Engage in light cardio
+81,81,tinea,Practice yoga
+82,82,tinea,Do stretching exercises
+83,83,tinea,Include breathing exercises
+84,84,tinea,Avoid sweaty environments during workouts
+85,85,unknown_normal,Engage in regular walking
+86,86,unknown_normal,Practice yoga
+87,87,unknown_normal,Do stretching exercises
+88,88,unknown_normal,Include breathing exercises
+89,89,unknown_normal,Engage in light cardio
+90,90,vascular_tumors,Practice yoga for relaxation
+91,91,vascular_tumors,Engage in light cardio
+92,92,vascular_tumors,Do stretching exercises
+93,93,vascular_tumors,Include breathing exercises
+94,94,vascular_tumors,Maintain regular walking routine
+95,95,vasculitis,Practice yoga and meditation
+96,96,vasculitis,Engage in light cardio
+97,97,vasculitis,Do stretching exercises
+98,98,vasculitis,Include breathing exercises
+99,99,vasculitis,Consult doctor before strenuous workouts
+100,100,vitiligo,Practice yoga for relaxation
+101,101,vitiligo,Engage in light cardio
+102,102,vitiligo,Do stretching exercises
+103,103,vitiligo,Include breathing exercises
+104,104,vitiligo,Avoid sun exposure during workouts
+105,105,warts,Engage in light cardio
+106,106,warts,Practice yoga
+107,107,warts,Do stretching exercises
+108,108,warts,Include breathing exercises
+109,109,warts,Maintain regular walking routine
