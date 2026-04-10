@@ -1,0 +1,38 @@
+EFFICIENTNET MODEL EVALUATION
+============================================================
+
+Accuracy: 79.69%
+F1 Score (Macro): 0.7707
+F1 Score (Weighted): 0.7958
+Average Loss: 0.9261
+ROC-AUC (Macro): 0.9783
+ROC-AUC (Weighted): 0.9810
+
+                     precision    recall  f1-score   support
+
+               acne     0.9104    0.9385    0.9242        65
+  actinic_keratosis     0.7791    0.8072    0.7929        83
+      benign_tumors     0.7672    0.7355    0.7511       121
+            bullous     0.7193    0.7455    0.7321        55
+        candidiasis     0.6897    0.7407    0.7143        27
+      drug_eruption     0.7049    0.7049    0.7049        61
+             eczema     0.7589    0.7589    0.7589       112
+ infestations_bites     0.7872    0.6167    0.6916        60
+             lichen     0.7213    0.7213    0.7213        61
+              lupus     0.5714    0.4706    0.5161        34
+              moles     0.7045    0.7750    0.7381        40
+          psoriasis     0.8272    0.7614    0.7929        88
+            rosacea     0.8276    0.8571    0.8421        28
+  seborrh_keratoses     0.8824    0.8824    0.8824        51
+        skin_cancer     0.7397    0.7013    0.7200        77
+sun_sunlight_damage     0.6216    0.6765    0.6479        34
+              tinea     0.7736    0.8039    0.7885       102
+     unknown_normal     0.9588    0.9841    0.9713       189
+    vascular_tumors     0.7231    0.7833    0.7520        60
+         vasculitis     0.7547    0.7692    0.7619        52
+           vitiligo     0.9500    0.9268    0.9383        82
+              warts     0.7826    0.8438    0.8120        64
+
+           accuracy                         0.7969      1546
+          macro avg     0.7707    0.7729    0.7707      1546
+       weighted avg     0.7966    0.7969    0.7958      1546
